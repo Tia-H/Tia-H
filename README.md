@@ -1,5 +1,5 @@
 # Hi, I’m Tia
-🎓 Studying BSc Computer Science at the University of Pretoria
+🎓 Studying BSc Computer Science at the University of Pretoria (3rd year)
 - Aspiring fullstack developer
 - Interested in Computer Graphics and AI
 
