@@ -1,5 +1,5 @@
 # Hi, I’m Tia  
-I am a highly motivated and detail-oriented Computer Science student at the University of Pretoria, passionate about software development and emerging technologies. With strong skills in programming, problem-solving, and software engineering, I strive to build efficient, scalable, and high-quality systems. As an aspiring full-stack developer, I enjoy exploring computer graphics, cybersecurity, and AI.
+I am a highly motivated and detail-oriented Computer Science student, passionate about software development and emerging technologies. With strong skills in programming, problem-solving, and software engineering, I strive to build efficient, scalable, and high-quality systems.
   
 🎓 Studying BSc Computer Science at the University of Pretoria (3rd year)
 - Aspiring fullstack developer
